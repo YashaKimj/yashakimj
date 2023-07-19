@@ -28,4 +28,4 @@
   
 </div>
 
-![snake gif](https://github.com/YashaKimj)
+![snake gif](https://github.com/YashaKimj/yashakimj/blob/output/github-contribution-grid-snake.svg)
