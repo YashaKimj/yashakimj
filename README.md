@@ -1,9 +1,9 @@
 ## Olá! Sou o Henrique
 
 <div>
-  <a src="http://github.com/YashaKimj">
-    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=yashakimj&show_icons=true&theme=dark">
-    <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashakimj&layout=donut&hide=hack&theme=dark">
+  <a src="http://github.com/henriquevdev">
+    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=henriquevdev&show_icons=true&theme=dark">
+    <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquevdev&layout=donut&hide=hack&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,4 +24,4 @@
   
 </div>
 
-![Snake animation](https://github.com/yashakimj/yashakimj/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/henriquevdev/henriquevdev/blob/output/github-contribution-grid-snake-dark.svg)
