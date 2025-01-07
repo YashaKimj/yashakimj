@@ -2,7 +2,8 @@
 ### Meu nome é Henrique, seja bem vindo ao meu perfil 👨‍💻
 
  - 📚 Atualmente estou estudando JavaScript.
- - 🎓 Atualmente cursando Bacharelado em Engenharia de Software na Anhanguera
+ - 🎓 Atualmente cursando Bacharelado em Engenharia de Software na Anhanguera.
+ - ✍ Retire o Máximo do Mínimo.
 
 ### Minhas Redes Sociais 🔗
 <div> 
