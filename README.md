@@ -1,7 +1,7 @@
 # Olá, Rede!!
 ### Meu nome é Henrique, seja bem vindo ao meu perfil 👨‍💻
 
- - 📚 Atualmente estou estudando JavaScript.
+ - 📚 Atualmente estou estudando C#.
  - 🎓 Cursando Bacharelado em Engenharia de Software na Anhanguera.
  - ✍ Retire o Máximo do Mínimo.
 
